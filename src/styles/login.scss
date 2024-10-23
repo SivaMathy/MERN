@@ -1,0 +1,101 @@
+.loginForm{
+    display: flex;
+    padding: 40px 99px;
+    height: 100vh;
+    .left{
+       width: 35%;
+        background-color: F9F8ED;
+        height: 100%;
+        border-radius: 10px;
+    }
+    .img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .right{
+        width: 65%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .wrapper{
+        margin: 50px;
+        width: 60%;
+    }
+    .content{
+        padding-top: 10px;
+    }
+    .open-accounts{
+        display: flex;
+        .iocns{
+            height: 50px;
+            width:40%;
+            border-radius: 20px;
+            border: 1px solid #8b8787;
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+        }
+        .icon-name{
+            margin: 0;
+        }
+      
+        .google{
+            .img-icon{
+                object-fit: cover;
+                height: 100%;
+                margin-inline-start: 20px;
+            }
+            
+        }
+        .apple{
+            margin-inline-start: 20px;
+            .img-icon{
+                object-fit: cover;
+                height: 80%;
+                margin-inline-start: 20px;
+            }
+        }
+    }
+    .hr-line{
+       margin-block: 20px;
+        // height: 0.5px;
+        border: 0.25px solid #8b8787;
+        width: 100%;
+    }
+    .form-wrapper{
+        display: flex;
+        flex-direction: column;
+    }
+    .input{
+        width: 100%;
+        background-color: rgb(255, 255, 255);
+        border: 0.1px solid rgb(106, 106, 105);
+        border-radius: 10px;
+        height: 35px;
+        margin-block: 10px;
+        text-align: left;
+        padding-inline-start: 15px;
+    }
+    input::placeholder {
+        opacity: 0.5;
+        color: rgb(48, 48, 48);
+        justify-content: center;
+        align-content: center;
+        margin-inline:50px;
+        text-align: left;
+        padding-inline-start: 15px;
+      }
+      .submit{
+        width: 100%;
+        height: 35px;
+        color: white;
+        background-color: #6C63FF;
+        border-radius: 20px;
+        border: none;
+        justify-content: center;
+      }
+}

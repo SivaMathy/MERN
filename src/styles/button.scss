@@ -1,0 +1,44 @@
+.primaryBtn {
+  width: auto;
+  padding: 15px;
+  &.svgIcon{
+    fill:#333333;
+   
+    svg{
+        path{
+            fill:red
+        }
+        
+    }
+}
+}  
+.svgIcon{
+    padding-inline: 10px;
+}
+.filledBtn{
+    @extend .primaryBtn;
+    background-color: #333333;
+    color: #ffffff;
+    &.svgIcon{
+        svg{
+            fill:#ffffff
+        }
+
+    }
+}
+.outlinedBtn {
+    @extend .primaryBtn;
+    background-color: none;
+    border: 1px solid #333333;
+    color: #333333;
+    &.svgIcon{
+        fill:#333333;
+       
+        svg{
+            path{
+                fill:red
+            }
+            
+        }
+    }
+}

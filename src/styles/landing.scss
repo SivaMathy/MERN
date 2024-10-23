@@ -1,0 +1,16 @@
+.header-wrapper {
+  margin: 20% 10%;
+  align-content: center;
+  .img-wrapper {
+    .mainImg {
+      margin-inline: auto;
+      @media screen and (min-width: 768px) {
+      }
+    }
+  }
+
+  @media screen and (min-width: 768px) {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+}
