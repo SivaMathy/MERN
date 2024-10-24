@@ -2,7 +2,7 @@
   "name": "froentend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SivaMathy.github.io/",
+  "homepage": "https://SivaMathy.github.io/MERN/login",
   "dependencies": {
     "@material-tailwind/react": "^2.1.10",
     "@testing-library/jest-dom": "^5.17.0",
