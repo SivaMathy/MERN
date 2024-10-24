@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/MERN/static/css/main.f2b6657e.css",
-    "main.js": "/MERN/static/js/main.7dc645a0.js",
-    "static/js/453.a928962f.chunk.js": "/MERN/static/js/453.a928962f.chunk.js",
-    "static/media/img1.png": "/MERN/static/media/img1.1ad9a57ea79d28c242ab.png",
-    "static/media/login.svg": "/MERN/static/media/login.27c7fdc47c57d3b9dfa43c46c7d0df29.svg",
-    "static/media/logo.svg": "/MERN/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/google.svg": "/MERN/static/media/google.ab7caa8c05be78d8388ae25f88ab900e.svg",
-    "index.html": "/MERN/index.html",
-    "static/media/apple.svg": "/MERN/static/media/apple.8994a46453622022657e30032d29ec57.svg",
-    "static/media/arrow.svg": "/MERN/static/media/arrow.c4dec4698a741395666554a70569b6cf.svg",
-    "main.f2b6657e.css.map": "/MERN/static/css/main.f2b6657e.css.map",
-    "main.7dc645a0.js.map": "/MERN/static/js/main.7dc645a0.js.map",
-    "453.a928962f.chunk.js.map": "/MERN/static/js/453.a928962f.chunk.js.map"
+    "main.css": "/MERN/login/static/css/main.f2b6657e.css",
+    "main.js": "/MERN/login/static/js/main.3383b50d.js",
+    "static/js/453.a928962f.chunk.js": "/MERN/login/static/js/453.a928962f.chunk.js",
+    "static/media/img1.png": "/MERN/login/static/media/img1.1ad9a57ea79d28c242ab.png",
+    "static/media/login.svg": "/MERN/login/static/media/login.27c7fdc47c57d3b9dfa43c46c7d0df29.svg",
+    "static/media/logo.svg": "/MERN/login/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/google.svg": "/MERN/login/static/media/google.ab7caa8c05be78d8388ae25f88ab900e.svg",
+    "index.html": "/MERN/login/index.html",
+    "static/media/apple.svg": "/MERN/login/static/media/apple.8994a46453622022657e30032d29ec57.svg",
+    "static/media/arrow.svg": "/MERN/login/static/media/arrow.c4dec4698a741395666554a70569b6cf.svg",
+    "main.f2b6657e.css.map": "/MERN/login/static/css/main.f2b6657e.css.map",
+    "main.3383b50d.js.map": "/MERN/login/static/js/main.3383b50d.js.map",
+    "453.a928962f.chunk.js.map": "/MERN/login/static/js/453.a928962f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2b6657e.css",
-    "static/js/main.7dc645a0.js"
+    "static/js/main.3383b50d.js"
   ]
 }
